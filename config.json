@@ -1,0 +1,7 @@
+{
+    "discordChannel": "CHANNEL_ID",
+    "discordToken": "TOKEN",
+    "key": "HYPIXEL_KEY",
+    "interval": 3,
+    "uuid": "YOUR_UUID"
+}
