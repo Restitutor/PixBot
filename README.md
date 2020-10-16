@@ -7,3 +7,7 @@ Configure using config.json.
 
 Check here to find your Hypixel token.
 https://hypixel-skyblock.fandom.com/wiki/SkyBlock_API
+
+To run
+npm i
+node main.js
